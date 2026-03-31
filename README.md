@@ -12,6 +12,7 @@ This project is an Artificial Intelligence application developed for identifying
 ### **2. The Solution**
 We built a **Computer Vision** model trained on the PlantVillage dataset. The model analyzes patterns, colors, and textures of infected leaves to distinguish between healthy plants and various diseases (e.g., Early Blight, Late Blight, Leaf Mold).
 
+We highlighted plants like Apples, Corn(Maize), Potato, Tomato and their subset Diseases.
 
 
 ---
