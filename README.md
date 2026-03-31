@@ -29,7 +29,7 @@ We highlighted plants like Apples, Corn(Maize), Potato, Tomato and their subset 
 ### **4. Folder Structure**
 
 For the **Plant_doctor_model.h5** download the file from this link then save it to your folder
-https://drive.google.com/file/d/1YORLDOeP3Da2pUMCWvhNBt4Ys0-axUtE/view?usp=drive_link
+https://drive.google.com/file/d/1z4bmMWagk19g5lBHW9XTELd9PzKHGghX/view?usp=drive_link
 ```text
 CropDoctor/
 ├── dataset/              # Folder containing images (Tomato, Potato, etc.)
